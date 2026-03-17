@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saddam hussain
-- 👀 I’m interested in logic building and create create thing
-- 🌱 I’m currently learning Bca
+- 👀 I’m interested in logic building and create creative things
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me 6202548771
 
