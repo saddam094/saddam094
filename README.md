@@ -35,6 +35,16 @@ Built at P5 Digital Solutions Pvt. Ltd. The source code of these apps is private
 **Web (projects):** React.js · Next.js
 **Tools:** Git · GitHub · Bitbucket · Android Studio · VS Code
 
+## Tech stack
+
+- **Mobile:** Flutter · Dart · Android · Google Play Console
+- **State management & architecture:** GetX · MVC with Repository pattern · familiar with Bloc, Provider, Riverpod
+- **APIs & integrations:** REST APIs · JSON · Firebase Auth · FCM · Razorpay · IMWallet · Maps & Location · HLS video streaming
+- **Local storage:** SQLite · Hive · SharedPreferences
+- **Backend & cloud:** Node.js · AWS Lambda · DynamoDB · AWS NAT Gateway · Java · Spring Boot · Spring Security · MongoDB (basic)
+- **Web (projects):** React.js · Next.js
+- **Tools:** Git · GitHub · Bitbucket · Android Studio · VS Code
+
 ## Public projects
 
 - [**Enhancing-Health-Care-Trust**](https://github.com/saddam094/Enhancing-Health-Care-Trust): Flutter app for doctor appointments and medicines.
