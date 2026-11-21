@@ -37,8 +37,12 @@ Built at P5 Digital Solutions Pvt. Ltd. The source code of these apps is private
 
 ## Public projects
 
-- [**Enhancing-Health-Care-Trust**](https://github.com/saddam094/Enhancing-Health-Care-Trust): Flutter app for doctor appointments and medicines.
-- **Society Management System**: Backend built with Java, Spring Boot and Spring Security (JWT/auth).
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**LSA-Profile-Verification**](https://github.com/saddam094/LSA-Profile-Verification) | Profile verification flow built as a hiring assignment: request tracing with a UUID `trace_id`, SHA-256 `logic_hash`, lineage validation, fail-closed response handling, quarantine storage and unit tests. Uses a mock API by default. | Flutter, Dart, GetX |
+| [**Sumadhura Visitor Management**](https://github.com/saddam094/sumadhura_visitor_management) | Visitor registration app with QR code generation and scanning, check-in/check-out, and WhatsApp/email sharing. Uses a REST API via MockAPI. | Flutter, Dart, Riverpod |
+| [**Enhancing-Health-Care-Trust**](https://github.com/saddam094/Enhancing-Health-Care-Trust) | Doctor appointment and medicine app. | Flutter, Dart |
+| **Society Management System** | Backend with authentication. | Java, Spring Boot, Spring Security |
 
 ## Education
 
