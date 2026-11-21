@@ -27,16 +27,6 @@ Built at P5 Digital Solutions Pvt. Ltd. The source code of these apps is private
 
 ## Tech stack
 
-**Mobile:** Flutter · Dart · Android · Google Play Console
-**State management & architecture:** GetX · MVC with Repository pattern · familiar with Bloc, Provider, Riverpod
-**APIs & integrations:** REST APIs · JSON · Firebase Auth · Firebase Cloud Messaging · Razorpay · IMWallet · Maps & Location · HLS video streaming
-**Local storage:** SQLite · Hive · SharedPreferences
-**Backend & cloud:** Node.js · AWS Lambda · DynamoDB · AWS NAT Gateway · Java · Spring Boot · Spring Security · MongoDB (basic)
-**Web (projects):** React.js · Next.js
-**Tools:** Git · GitHub · Bitbucket · Android Studio · VS Code
-
-## Tech stack
-
 - **Mobile:** Flutter · Dart · Android · Google Play Console
 - **State management & architecture:** GetX · MVC with Repository pattern · familiar with Bloc, Provider, Riverpod
 - **APIs & integrations:** REST APIs · JSON · Firebase Auth · FCM · Razorpay · IMWallet · Maps & Location · HLS video streaming
